@@ -23,7 +23,7 @@
 - 🖥️ **Programmation bas niveau d’un réseau (C)**  
   Projet réseau en C pour apprendre la communication entre machines et la programmation bas niveau.
 
-- 🌐 **Jeu en console + interface web (C#, HTML/CSS/JS, JSON)**  
+- 🌐 **Jeu en console (yam's) + interface web (C#, HTML/CSS/JS, JSON)**  
   Projet combinant jeu en console et interface web, avec échange de données via JSON.
 
 - 🎮 **Sudoku en assembleur (MIPS 32)**    
