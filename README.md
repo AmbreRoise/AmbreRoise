@@ -27,7 +27,10 @@
   Projet combinant jeu en console et interface web, avec échange de données via JSON.
 
 - 🎮 **Sudoku en assembleur (MIPS 32)**    
-  Création d’un Sudoku en assembleur pour apprendre le fonctionnement d’un processeur et la manipulation bas niveau.  
+  Création d’un Sudoku en assembleur pour apprendre le fonctionnement d’un processeur et la manipulation bas niveau.
+
+- 🎲 **Jeu Donjons & Dragons (POO, console)**  
+  Jeu en console inspiré de Donjons & Dragons développé en programmation orientée objet, avec gestion des personnages et combats.  
 
 ## 📫 Me contacter
 
