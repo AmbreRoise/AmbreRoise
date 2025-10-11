@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Elora !
+# 👋 Hey, je suis Elora !
 
 🎓 Étudiante en **2ᵉ année de BUT Informatique** à l'IUT Robert Schuman - Université de Strasbourg.  
 💡 Je me forme aux bases du développement et j’apprécie les projets qui me permettent de mettre en pratique mes connaissances tout en développant créativité et rigueur.  
