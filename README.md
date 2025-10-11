@@ -23,6 +23,9 @@
 - 🖥️ **Programmation bas niveau d’un réseau (C)**  
   Projet réseau en C pour apprendre la communication entre machines et la programmation bas niveau.
 
+- 🚒 **PimPomBro (C#, WinForms, SQLite)**
+  Application de gestion d’une caserne de pompiers : création et suivi des missions, consultation des véhicules, statistiques, fiches des pompiers, génération de PDF et interface administrateur.
+
 - 🌐 **Jeu en console (yam's) + interface web (C#, HTML/CSS/JS, JSON)**  
   Projet combinant jeu en console et interface web, avec échange de données via JSON.
 
