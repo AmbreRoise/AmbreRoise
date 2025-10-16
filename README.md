@@ -1,4 +1,4 @@
-# 👋 Hey, je suis Elora !
+# Hey, je suis Elora !
 
 🎓 Étudiante en **2ᵉ année de BUT Informatique** à l'IUT Robert Schuman - Université de Strasbourg.  
 💡 Je me forme aux bases du développement et j’apprécie les projets qui me permettent de mettre en pratique mes connaissances tout en développant créativité et rigueur.  
@@ -17,23 +17,7 @@
 
 ## 🚀 Projets
 
-- 💻 **Jeu sérieux (Unity – C#) (en cours)**  
-  Jeu éducatif développé avec Unity.
-
-- 🖥️ **Programmation bas niveau d’un réseau (C)**  
-  Projet réseau en C pour apprendre la communication entre machines et la programmation bas niveau.
-
-- 🚒 **PimPomBro (C#, WinForms, SQLite)**
-  Application de gestion d’une caserne de pompiers : création et suivi des missions, consultation des véhicules, statistiques, fiches des pompiers, génération de PDF et interface administrateur.
-
-- 🌐 **Jeu en console (yam's) + interface web (C#, HTML/CSS/JS, JSON)**  
-  Projet combinant jeu en console et interface web, avec échange de données via JSON.
-
-- 🎮 **Sudoku en assembleur (MIPS 32)**    
-  Création d’un Sudoku en assembleur pour apprendre le fonctionnement d’un processeur et la manipulation bas niveau.
-
-- 🎲 **Jeu Donjons & Dragons (POO, console)**  
-  Jeu en console inspiré de Donjons & Dragons développé en programmation orientée objet, avec gestion des personnages et combats.  
+Je travaille sur divers projets allant du **développement de jeux** (Unity, MIPS, console) à la création d’**applications de gestion et d’interfaces web**. Ces expériences me permettent d’explorer aussi bien la programmation bas niveau (**C, assembleur**) que des outils plus haut niveau comme **C#, WinForms et SQLite**. 
 
 ## 📫 Me contacter
 
