@@ -5,8 +5,8 @@
 
 ## 🧰 Compétences
 
-- **Langages :** Java, C#, C, SQL, HTML, CSS, JavaScript, PHP  
-- **Technologies :** .NET, WinForms, Git, base de données (SQLite)  
+- **Langages :** Java, C#, C, SQL, HTML, CSS, JavaScript, PHP, Typescript  
+- **Technologies :** .NET, WinForms, Laravel, Git, base de données (SQLite)  
 - **Outils :** Visual Studio, IntelliJ IDEA, VS Code, GitHub
 
 ## 🧠 Ce que j’apprécie
