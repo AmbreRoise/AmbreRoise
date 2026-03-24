@@ -7,7 +7,7 @@
 
 - **Langages :** Java, C#, C, SQL, HTML, CSS, JavaScript, PHP, Typescript  
 - **Technologies :** .NET, WinForms, Laravel, Git, base de données (SQLite)  
-- **Outils :** Visual Studio, IntelliJ IDEA, VS Code, GitHub
+- **Outils :** Visual Studio, IntelliJ IDEA, VS Code, Android Studio, GitHub
 
 ## 🧠 Ce que j’apprécie
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Projets
 
-Je travaille sur divers projets allant du **développement de jeux** (Unity, MIPS, console) à la création d’**applications de gestion et d’interfaces web**. Ces expériences me permettent d’explorer aussi bien la programmation bas niveau (**C, assembleur**) que des outils plus haut niveau comme **C#, WinForms et SQLite**. 
+Je travaille sur divers projets allant du **développement de jeux** (Unity, MIPS, console) à la création d’**applications de gestion et d’interfaces web**. Ces expériences me permettent d’explorer aussi bien la programmation bas niveau (**C, assembleur**) que des outils plus haut niveau comme **C#, Java, WinForms et SQLite**. 
 
 ## 📫 Me contacter
 
