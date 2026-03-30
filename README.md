@@ -2,12 +2,24 @@
 
 🎓 Étudiante en **2ᵉ année de BUT Informatique** à l'IUT Robert Schuman - Université de Strasbourg.  
 💡 Je me forme aux bases du développement et j’apprécie les projets qui me permettent de mettre en pratique mes connaissances tout en développant créativité et rigueur.  
+💼 Actuellement à la **recherche d’une alternance** en développement pour ma 3ᵉ année de BUT.
 
 ## 🧰 Compétences
 
-- **Langages :** Java, C#, C, SQL, HTML, CSS, JavaScript, PHP, Typescript  
-- **Technologies :** .NET, WinForms, Laravel, Git, base de données (SQLite)  
-- **Outils :** Visual Studio, IntelliJ IDEA, VS Code, Android Studio, GitHub
+### 🌐 Développement Web
+HTML, CSS, JavaScript, PHP, TypeScript, Laravel, React
+
+### 💻 Développement d’applications
+C#, Java, .NET WinForms, Swing, Android, tests unitaires
+
+### ⚙️ Bas niveau
+C, Assembleur MIPS
+
+### 🗂️ Données
+SQL, PL/SQL, JSON
+
+### 🛠️ Outils
+Git, VS Code, Visual Studio, IntelliJ IDEA, Android Studio, Unity
 
 ## 🧠 Ce que j’apprécie
 
@@ -16,7 +28,7 @@
 
 ## 🚀 Projets
 
-Je travaille sur divers projets allant du **développement de jeux** (Unity, MIPS, console) à la création d’**applications de gestion et d’interfaces web**. Ces expériences me permettent d’explorer aussi bien la programmation bas niveau (**C, assembleur**) que des outils plus haut niveau comme **C#, Java, WinForms et SQLite**. 
+Je travaille sur divers projets allant du **développement de jeux** (Unity, Java Swing, MIPS, console) à la création d’**applications et d’interfaces web**. Ces expériences me permettent d’explorer aussi bien la programmation bas niveau (**C, assembleur**) que des outils plus haut niveau comme **C#, Java, WinForms et SQLite**. 
 
 ## 📫 Me contacter
 
